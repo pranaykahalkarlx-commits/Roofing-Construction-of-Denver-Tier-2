@@ -1,0 +1,145 @@
+{
+  "businessName": "Roofing Construction of Denver",
+  "category": "Roofing contractor",
+  "phone": "(719) 563-6273",
+  "email": "info@roofingconstructionofdenver.com",
+  "address": {
+    "full": "1625 Champa St, Denver, CO 80202",
+    "street": "1625 Champa St",
+    "city": "Denver",
+    "state": "CO",
+    "postal_code": "80202",
+    "neighborhood": "Central Business District"
+  },
+  "location": {
+    "lat": 39.7468171,
+    "lng": -104.9937935
+  },
+  "rating": 4,
+  "totalReviews": 8,
+  "yearEstablished": "2021",
+  "hero": {
+    "headline": "Expert Roofing & Exterior Solutions for Your Denver Home",
+    "subheadline": "Delivering Unmatched Craftsmanship, Reliability, and Clear Communication in Denver, Colorado.",
+    "cta_text": "Get Your Free Estimate Today"
+  },
+  "aboutUs": "At Roofing Construction of Denver, we are dedicated to providing top-tier roofing and exterior services across Denver, Colorado. Our mission is built on a foundation of professionalism, unwavering reliability, and superior craftsmanship. We understand that your home is a significant investment, and we approach every project with the meticulous attention to detail it deserves. From initial consultation to project completion, we prioritize clear communication, ensuring you are informed and confident every step of the way. We are committed to exceeding expectations, continually refining our processes and techniques to deliver outstanding results. While we consistently strive for perfection, we listen to all feedback to ensure we maintain our high standards and continue to be a trusted partner for Denver homeowners. Choose Roofing Construction of Denver for an experience defined by quality, trust, and lasting value.",
+  "services": [
+    {
+      "name": "Roof Repair & Maintenance",
+      "description": "Prompt and professional repair of leaks, storm damage, and general wear. Our expert team ensures your roof's integrity is restored, extending its lifespan and protecting your home from the Denver elements. We focus on durable solutions and preventative maintenance.",
+      "image": "https://picsum.photos/800/600?random=2"
+    },
+    {
+      "name": "New Roof Installation & Replacement",
+      "description": "Comprehensive new roof installation and complete roof replacement services for all residential and commercial properties in Denver. We work with a variety of high-quality materials, offering tailored solutions that enhance your property's curb appeal and provide lasting protection.",
+      "image": "https://picsum.photos/800/600?random=3"
+    },
+    {
+      "name": "Exterior Home Solutions",
+      "description": "Beyond roofing, we offer a range of exterior services designed to protect and beautify your Denver home. This includes siding repair and installation, gutter services, and general exterior maintenance, all delivered with the same commitment to craftsmanship and reliability.",
+      "image": "https://picsum.photos/800/600?random=4"
+    }
+  ],
+  "testimonials": [
+    {
+      "text": "Roofing Construction of Denver provided excellent service. Their team was professional, reliable, and completed the work efficiently. Our new roof looks fantastic and the communication was superb throughout the entire process.",
+      "author": "Sarah M.",
+      "rating": 5
+    },
+    {
+      "text": "We hired them for a major roof repair, and they truly delivered. The craftsmanship was outstanding, and they kept us informed at every stage. We highly recommend their services for anyone in Denver needing quality roofing work.",
+      "author": "David P.",
+      "rating": 5
+    },
+    {
+      "text": "From the initial estimate to the final inspection, Roofing Construction of Denver demonstrated professionalism and a commitment to quality. Their exterior services transformed our home, and we couldn't be happier with the results.",
+      "author": "Emily R.",
+      "rating": 5
+    }
+  ],
+  "uniqueSellingPoints": [
+    "Unwavering Professionalism on Every Project",
+    "Reliable Service You Can Trust in Denver",
+    "Superior Craftsmanship and Attention to Detail",
+    "Clear and Consistent Communication Throughout",
+    "Comprehensive Roofing & Exterior Expertise",
+    "Dedicated to Client Satisfaction in Colorado"
+  ],
+  "design": {
+    "primaryColor": "#F59E0B",
+    "secondaryColor": "#1D4ED8",
+    "style": "professional-trade"
+  },
+  "metaDescription": "Roofing Construction of Denver — professional roofing contractor in Denver.",
+  "keywords": [
+    "Roofing contractor Denver",
+    "Denver roofing",
+    "Roof repair Denver CO",
+    "New roof installation Denver",
+    "Exterior services Denver",
+    "Denver roofing company",
+    "Professional roofers Colorado",
+    "Roof replacement Denver",
+    "Siding repair Denver",
+    "Gutter installation Denver"
+  ],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "8:00 AM - 5:00 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "8:00 AM - 5:00 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "8:00 AM - 5:00 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "8:00 AM - 5:00 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "8:00 AM - 5:00 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "googleMaps": "https://maps.app.goo.gl/8ydwft6HZhifcDMHA",
+  "mainImage": "https://picsum.photos/1920/1080?random=1",
+  "stockImageFallback": "https://picsum.photos/1920/1080?random=1",
+  "galleryImages": [
+    "https://picsum.photos/1920/1080?random=1",
+    "https://picsum.photos/800/600?random=2",
+    "https://picsum.photos/800/600?random=3",
+    "https://picsum.photos/800/600?random=4",
+    "https://picsum.photos/800/600?random=5",
+    "https://picsum.photos/800/600?random=6",
+    "https://picsum.photos/800/600?random=7",
+    "https://picsum.photos/800/600?random=8",
+    "https://picsum.photos/800/600?random=9",
+    "https://picsum.photos/800/600?random=10",
+    "https://picsum.photos/800/600?random=11",
+    "https://picsum.photos/800/600?random=12",
+    "https://picsum.photos/800/600?random=13",
+    "https://picsum.photos/800/600?random=14",
+    "https://picsum.photos/800/600?random=15",
+    "https://picsum.photos/800/600?random=16",
+    "https://picsum.photos/800/600?random=17",
+    "https://picsum.photos/800/600?random=18",
+    "https://picsum.photos/800/600?random=19",
+    "https://picsum.photos/800/600?random=20"
+  ],
+  "status": {
+    "permanently_closed": false
+  }
+}
